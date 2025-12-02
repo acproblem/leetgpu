@@ -1,11 +1,13 @@
 # 矩阵乘法 
 
 公式：
+
 $$
 C_{M\times N}=A_{M\times K}B_{K\times N}
 $$
 
 性能分析：
+
 ```bash
 ncu --kernel-name "matmul" --launch-count 1 ./program > profile.txt
 ```
