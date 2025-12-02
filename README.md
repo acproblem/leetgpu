@@ -1,6 +1,11 @@
-CUDA刷题
+# CUDA刷题
 
-网站：
+## 题目来源
 
-NVIDIA GeForce RTX 2080 Ti
-CUDA Version: 13.0
+[LeetGPU - The GPU Programming Platform](https://leetgpu.com/)
+
+## 软硬件配置
+
+- NVIDIA GeForce RTX 2080 Ti
+
+- CUDA Version: 13.0
